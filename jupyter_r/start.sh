@@ -1,0 +1,1 @@
+docker run -p 8889:8888 -v ~/:/home/jovyan/home -it --rm r_notes:latest jupyter notebook
