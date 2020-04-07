@@ -13,3 +13,5 @@ Visit on
 ```
 http://localhost:8889
 ```
+
+Password of the notebook is ```123456```
